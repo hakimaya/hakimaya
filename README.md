@@ -30,13 +30,7 @@ aya@hakim
   Version control .......... Git, GitHub
   Environment .............. Linux
 
-  Current project
-  ──────────────────────────────────────────────────────────
-  Mythoria ................. Fantasy trading card website
 
-  Mindset
-  ──────────────────────────────────────────────────────────
-  Understand the logic. Practice. Try again.
 ```
 
 ### $ languages
