@@ -1,16 +1,32 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=991B1B&height=120&section=header" alt="" />
 
-<!--
-**hakimaya/hakimaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Aya Hakim</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Learning to code. Building my own path.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### $ whoami
+
+A curious learner who enjoys problem solving and understanding how things work.
+Currently growing my skills in programming and web development.
+
+### $ languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js&theme=dark" alt="C, Python, HTML, CSS, JavaScript" />
+</p>
+
+### $ tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,git,github,vscode,linux&theme=dark" alt="Tailwind CSS, Git, GitHub, VS Code, Linux" />
+</p>
+
+### $ mindset
+
+> Understand the logic. Practice. Try again.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=991B1B&height=100&section=footer" alt="" />
