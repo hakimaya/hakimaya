@@ -10,8 +10,34 @@
 
 ### $ whoami
 
-A curious learner who enjoys problem solving and understanding how things work.
-Currently growing my skills in programming and web development.
+```text
+aya@hakim
+────────────────────────────────────────────────────────────
+
+  Name ..................... Aya Hakim
+  Focus .................... Programming & Web Development
+  Status ................... Learning by building projects
+  Editor ................... VS Code
+
+  Languages
+  ──────────────────────────────────────────────────────────
+  Programming .............. C, Python, JavaScript
+  Web ...................... HTML, CSS
+  Framework ................ Tailwind CSS
+
+  Tools
+  ──────────────────────────────────────────────────────────
+  Version control .......... Git, GitHub
+  Environment .............. Linux
+
+  Current project
+  ──────────────────────────────────────────────────────────
+  Mythoria ................. Fantasy trading card website
+
+  Mindset
+  ──────────────────────────────────────────────────────────
+  Understand the logic. Practice. Try again.
+```
 
 ### $ languages
 
